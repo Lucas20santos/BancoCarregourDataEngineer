@@ -14,7 +14,7 @@ Combina esses dados em m formulário de resumo agregado adequado para análise d
 
 ## OLTP Versus OLAP
   Indece  | Tema    | Online Transactional Processing - OLTP    | Online Analytical Processing - OLAP               
-----|-------------------|-------------------------------------------|---------------------------------------------------
+:--:|:-----------------:|:-----------------------------------------:|:-------------------------------------------------:
 1   |   Foco            | Operações do dia a dia                    | Suporte a decisão                                 
 2   |   Origem          | Transações em tempo real da organização   | Base de dados de sistema transacionais - OLTP     
 3   |   Perfomace       | Milisseguros                              | Minutos / Horas                                   
