@@ -13,10 +13,11 @@
 Combina esses dados em m formulário de resumo agregado adequado para análise de dados em toda a empresa e relatórios para necessidades de negócios predefinidas.
 
 ## OLTP Versus OLAP
-  I |   tema            | Online Transactional Processing - OLTP    | Online Analytical Processing - OLAP               
+    |                   | Online Transactional Processing - OLTP    | Online Analytical Processing - OLAP               
 ----|-------------------|-------------------------------------------|---------------------------------------------------
 1   |   Foco            | Operações do dia a dia                    | Suporte a decisão                                 
 2   |   Origem          | Transações em tempo real da organização   | Base de dados de sistema transacionais - OLTP     
 3   |   Perfomace       | Milisseguros                              | Minutos / Horas                                   
 4   |   Volatilidade    | Atualizações curtas e rápidas iniciadas pelo usuário| Geralmente grande devido à agregação de grandes conjuntos de dados                                
 5   |   Design          | Normalizado                               | Desnomalizado                                     
+
