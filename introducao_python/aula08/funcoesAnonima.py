@@ -5,6 +5,7 @@ lista = ['lucas', 'camila', 'vitoria', 'antonio', 'marcus'
 contador_letra = lambda lista: [len(x) for x in lista]
 
 print(contador_letra(lista))
+soma = lambda a, b: a + b
 
 calculadora = {
     'soma' : lambda a, b: a + b,
