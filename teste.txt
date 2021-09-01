@@ -1,0 +1,3 @@
+arquivo escritoarquivo escrito segunda vez
+ arquivo escrito terceira vez
+ arquivo escrito terceira vez
