@@ -43,7 +43,7 @@ Cerca de 90 % de todos os dados existente, form gerados nos últimos 4 anos e a 
 
 Big data é um conceito, que define lidar com grande volume de dados através de ferramentas especializadas, que permitam as informações serem encontradas, analisadas e utilizadas em tempo hábil.
 
-### Os 4 V's:
+### Os 4 V's
 
 - Volume;
 - Velocidade;
