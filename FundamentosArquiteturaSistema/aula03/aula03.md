@@ -29,5 +29,8 @@
 
 ## Biblioteca multithreading
 
+- controi interface de alto nível
 
+## Biblioteca ipaddress
 
+- ela cria, manipula endereços IP do tipo IPv4, IPv6 e até redes inteiras.
