@@ -17,3 +17,6 @@ if hash1.digest()!= hash2.digest():
     print("Os arquivos são diferentes")
 else:
     print("Os arquivos são iguais")
+
+print("Hash arquivo1: ", hash1.hexdigest())
+print("Hash arquivo2: ", hash2.hexdigest())
